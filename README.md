@@ -1,0 +1,2 @@
+# testmergeconflict
+Test merge conflicts
